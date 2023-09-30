@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mosam
+ *
+ */
+module JavaPractice {
+}
